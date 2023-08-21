@@ -1,4 +1,4 @@
-![Cover Image](https://drive.google.com/file/d/1TiKwryeTcxMvA-x5tVAlbv2vLO968SRD/view?usp=drive_link)
+![Cover Image](https://www.flickr.com/photos/198983649@N03/53133060718/in/album-12345678901234567/)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
