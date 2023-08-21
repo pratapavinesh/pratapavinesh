@@ -1,4 +1,4 @@
-![Cover Image]([https://lh3.googleusercontent.com/pw/AJFCJaXDx_puee1s8L67-_PrmRMBe8_yRJr9wdYJb4rzvUHcIgDgTZ5nDuruj8GTPtdegFDzlWMJ59m5jkVwAGCYXVD8Ru4vKSoiNpMFWWaDnCxzcOdML3q0WKThyOn9WpyHWsuLidQLRYrKeNblQ1F4TXI56w=w1081-h270-s-no?authuser=0](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png))
+![Cover Image](https://github.com/jindalujjwal0720/jindalujjwal0720/blob/main/README.md?plain=1)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
