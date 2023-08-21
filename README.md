@@ -1,3 +1,5 @@
+![Cover Image](https://lh3.googleusercontent.com/pw/AJFCJaXDx_puee1s8L67-_PrmRMBe8_yRJr9wdYJb4rzvUHcIgDgTZ5nDuruj8GTPtdegFDzlWMJ59m5jkVwAGCYXVD8Ru4vKSoiNpMFWWaDnCxzcOdML3q0WKThyOn9WpyHWsuLidQLRYrKeNblQ1F4TXI56w=w1081-h270-s-no?authuser=0)
+<h1 align="center">Hi 👋, I'm Ujjwal Jindal</h1>
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
