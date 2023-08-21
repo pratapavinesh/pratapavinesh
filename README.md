@@ -1,4 +1,4 @@
-![Cover Image](https://github.com/jindalujjwal0720/jindalujjwal0720/blob/main/README.md?plain=1)
+![Cover Image](https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
