@@ -10,14 +10,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at ([https://pratapavinesh.github.io/portfolio/](https://github.com/pratapavinesh?tab=repositories))
+- 👨‍💻 All of my projects are available at ([https://github.com/pratapavinesh?tab=repositories](https://github.com/pratapavinesh?tab=repositories))
 
 - 💬 Ask me about **Competitive Programming, MERN Stack**
 
 - 📫 How to reach me **pratapavinesh2003@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1oozEmtpQwf-Q-KGRCAuuWeFK3TMjNqQig0-9jKw9ZVg/edit](https://docs.google.com/document/d/1oozEmtpQwf-Q-KGRCAuuWeFK3TMjNqQig0-9jKw9ZVg/edit)
-
+- 📄 Know about my experiences [https://docs.google.com/document/d/1oozEmtpQwf-Q-KGRCAuuWeFK3TMjNqQig0-9jKw9ZVg/edit](https://docs.google.com/document/d/1sOvihzy1wUuvlPcB8o8_KbdgvS0D5-b5ecWwahbS66w/edit)
 - ⚡ Fun fact **I Think I am funny**
 
 <h3 align="left">Connect with me:</h3>
