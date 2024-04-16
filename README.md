@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://pratapavinesh.github.io/portfolio/](https://pratapavinesh.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at ([https://pratapavinesh.github.io/portfolio/](https://github.com/pratapavinesh?tab=repositories))
 
 - 💬 Ask me about **Competitive Programming, MERN Stack**
 
