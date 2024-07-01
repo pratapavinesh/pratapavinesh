@@ -1,4 +1,4 @@
-![Cover Image](https://photos.app.goo.gl/1qCEfpzDpHBeRhn8A)
+![Cover Image](https://photos.fife.usercontent.google.com/pw/AP1GczMYPhAgCwPgEm1wKB0JXGT5WQQhEat7RleEJ1kHEeaU0Lg4hgL8RQAk=w1143-h396-s-no-gm?authuser=0)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
