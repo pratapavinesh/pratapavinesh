@@ -1,4 +1,7 @@
-![Cover Image](https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/1711738303444.jpeg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/1711738303444.jpeg" alt="Cover Image" style="width:100%; max-width:800px; height:auto;">
+</div>
+
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
@@ -16,7 +19,7 @@
 
 - 📫 How to reach me **pratapavinesh2003@gmail.com**
 
-- 📄 Know about my experiences [Portfolio](https://pratapavinesh.github.io/portfolio/)
+- 📄 Know about my experiences [Portfolio](https://avineshportfoliov2.netlify.app/)
 - ⚡ Fun fact **I Think I am funny**
 
 <h3 align="left">Connect with me:</h3>
