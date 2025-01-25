@@ -48,6 +48,9 @@
 
 You can view or download my resume by clicking the link below:
 
-[![Resume Preview](https://via.placeholder.com/800x400.png?text=Resume+Preview)](https://github.com/pratapavinesh/pratapavinesh/raw/main/avineshResume.pdf)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/avineshResume.png" alt="Resume Image" style="width:800px; height:300px;">
+</div>
 
 [Download Resume](https://github.com/pratapavinesh/pratapavinesh/raw/main/avineshResume.pdf)
+
