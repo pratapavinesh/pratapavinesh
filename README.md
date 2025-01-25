@@ -49,8 +49,8 @@
 You can view or download my resume by clicking the link below:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/avineshResume.png" alt="Resume Image" style="width:800px; height:300px;">
+  <img src="https://avineshportfoliov2.netlify.app/avineshResume.png" alt="Resume Image" style="width:800px; height:300px;">
 </div>
 
-[Download Resume](https://github.com/pratapavinesh/pratapavinesh/raw/main/avineshResume.pdf)
+[Download Resume](https://avineshportfoliov2.netlify.app/avineshResume.pdf)
 
