@@ -1,4 +1,4 @@
-![Cover Image](img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/demo.png" alt="Demo" width="600"/)
+![Cover Image](https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/1711738303444.jpeg)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
