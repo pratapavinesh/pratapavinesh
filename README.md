@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/1711738303444.jpeg" alt="Cover Image" style="width:100%; max-width:800px; height:auto;">
+  <img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/1711738303444.jpeg" alt="Cover Image" style="width:100%; max-width:800px; max-height:250px; height:auto; object-fit:cover;">
 </div>
+
 
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
