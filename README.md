@@ -1,4 +1,4 @@
-![Cover Image](https://lh3.googleusercontent.com/pw/AP1GczOKC72LBEWRwc6oKGmg-6ZgyL2UoFTemJx0ptCfqau6zaRNIIPDDtEnW3ifS_7Ahd59Gp7rhpIkGVIe0UlZj0SqYiR_z0cITtkMo5OJUYr6Uc0oCFDls5s_D0dRwPzQnH0sOg2ywG3NOZYNidcSLqTz=w1143-h396-s-no-gm?authuser=0)
+![Cover Image](img src="https://raw.githubusercontent.com/pratapavinesh/pratapavinesh/main/images/demo.png" alt="Demo" width="600"/)
 <h1 align="center">Hi 👋, I'm Avinesh Pratap Singh</h1>
 <h3 align="center">A passionate Competitive Programmer and Full Stack developer from India</h3>
 
