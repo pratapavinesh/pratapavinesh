@@ -48,9 +48,6 @@
 
 You can view or download my resume by clicking the link below:
 
-<div align="center">
-  <img src="https://avineshportfoliov2.netlify.app/avineshResume.png" alt="Resume Image" style="width:800px; height:300px;">
-</div>
-
+<iframe src="https://avineshportfoliov2.netlify.app/avineshResume.pdf" width="800" height="600" style="border: none;"></iframe>
 [Download Resume](https://avineshportfoliov2.netlify.app/avineshResume.pdf)
 
